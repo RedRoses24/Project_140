@@ -1,0 +1,55 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+    font-family: 'Balsamiq Sans', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Montagu Slab', serif;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Readex Pro', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;
+    font-family: 'Special Elite', cursive;
+    font-family: 'Titan One', cursive;
+    color: white;
+    text-shadow: 1px solid black;
+}
+.heading button{
+    float: right;
+    border: 1px solid whitesmoke;
+}
+.heading button:hover{
+    color: black;
+    background-color: lightcyan;
+}
+.big_image{
+    width: 100%;
+}
+#start, #status, #restart{
+    font-size: 22px;
+    width: 200px;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+      margin-left: 50px;
+  }
+  .modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+#footer{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   margin-top: 800px;
+}
